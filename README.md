@@ -9,7 +9,7 @@ HNG track 1 test by Siilver
 {
     "slackUsername": "Siilver",
     "backend": true,
-    "age": 26,
+    "age": 25,
     "bio": "Getting shit done!"
 }
 ```

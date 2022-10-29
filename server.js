@@ -5,7 +5,7 @@ api.get('/', (request, response) => {
     response.status(200).json({
         slackUsername: 'Siilver',
         backend: true,
-        age: 26,
+        age: 25,
         bio: 'Getting shit done!'
     })
 })
