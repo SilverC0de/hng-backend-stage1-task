@@ -1,5 +1,5 @@
-## hng-silver-track1
-HNG track 1 test by Siilver
+## HNG task 1 by Siilver
+
 
 * Backend was built with express.js
 * Takes no input
