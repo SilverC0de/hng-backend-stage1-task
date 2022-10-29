@@ -12,10 +12,10 @@ api.get('/', (request, response) => {
 
 //for endpoints that are not valid
 api.all('*', (request, response) => {
-    response.status(404).send('Not a valid route')
+    response.status(404).send('Not a valid route, try the endpoint without any path')
 });
 
 
-api.listen(conf.port, ()=> {
+api.listen(8080, ()=> {
     console.log(`Server running on port 8080`)
 })
