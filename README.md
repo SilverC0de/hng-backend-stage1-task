@@ -7,7 +7,7 @@
 
 ```json
 {
-    "slackUsername": "Siilver",
+    "slackUsername": "Silver",
     "backend": true,
     "age": 25,
     "bio": "Getting shit done!"

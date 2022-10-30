@@ -3,7 +3,7 @@ const api = express()
 
 api.get('/', (request, response) => {
     response.status(200).json({
-        slackUsername: 'Siilver',
+        slackUsername: 'Silver',
         backend: true,
         age: 25,
         bio: 'Getting shit done!'
