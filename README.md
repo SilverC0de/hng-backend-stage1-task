@@ -1,4 +1,4 @@
-## HNG task 1 by Siilver
+## HNG task 1 by Silver
 
 
 * Backend was built with express.js
